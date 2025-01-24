@@ -9,8 +9,8 @@ Team Members:
 <br>
 4.Anuj Sopan Jundhare --- https://github.com/Anujsjm1405
 <br>
-<br>
 Mentors:
+<br>
 1.Aaditya Shirke
 <br>
 2.Avinash Waykule
